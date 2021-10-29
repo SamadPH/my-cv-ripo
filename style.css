@@ -21,6 +21,7 @@ margin-bottom: 4x;
     text-align: center;
     justify-content: center;
     color: white;
+   
     
 }
 .cvpic{
@@ -75,4 +76,8 @@ table{
 }
 p{
     margin-right: 10px;
+}
+#samad{
+    position: relative;
+    left: 135px;
 }
